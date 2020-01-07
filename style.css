@@ -1,0 +1,156 @@
+
+.first {
+  height:100vh;
+  min-height:400px;
+  background-size:cover;
+ 
+
+}
+section {
+ width: 200px;
+
+}
+section .container{
+  position: absolute;
+  bottom: 100px;
+  left: 20px;
+   color: white;
+  padding-left: 120px;
+  padding-right: 50px;
+  font-size: 80px;
+  text-align: center;
+}
+section span{
+  position: absolute;
+  bottom: 500px;
+  left: 400px;
+  color: white;
+  padding-left: 120px;
+  padding-right: 50px;
+  text-align: center;
+}
+.style
+{
+  background:transparent;
+
+ }
+ .row:after {
+  display: table;
+  clear: both;
+}
+  .center  img{
+  height: 300px;
+  width: 580px;
+  border-radius:20px;
+  padding: 2px; 
+  padding-left: 5px;
+
+}
+img .plus-image {
+   margin-top: 10px;
+}
+.center .leftsidetwo
+{
+  padding-left: 0px;
+}
+.card{
+  margin-top: 100px; 
+  border-style: none;
+}
+.card img{
+  margin-left: 300px;
+  width: 300px;
+  height: 400px;
+}
+.card-body{
+  margin-left: 450px;
+  display: inline-block;
+  width: 500px;
+  margin-top: 2px;
+}
+@import url(https://fonts.googleapis.com/css?family=Rubik:300,400,500,700);
+
+.go_top span {
+ display:inline-block
+}
+.footer-big {
+ padding:50px 0 65px 0;
+ margin-left: 290px;
+}
+.footer-big .footer-widget {
+ margin-bottom:40px
+}
+.footer--light {
+ background:#ffa500;
+}
+.footer-big .footer-menu ul li a,.footer-big p,.footer-big ul li {
+ color:#898b96
+}
+.footer-widget-title {
+ line-height:42px;
+ margin-bottom:10px;
+ font-size:18px
+}
+
+
+footer a{
+  color:#5867dd;
+ text-decoration: underline;
+}
+
+.user-widget-2 .media {
+    margin-bottom: 20px;
+}
+
+.user-widget-2 h5 {
+    font-size: 0.9375rem;
+    font-weight: 400;
+    margin-bottom: 10px;
+}
+
+.user-widget-2 p {
+    font-size: 0.8125rem;
+    margin-bottom: 10px;
+}
+
+.user-widget-2 p .badge {
+    margin-right: 10px;
+}
+
+.user-widget-2 i {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.user-widget-2 .rounded-circle {
+    border: 3px solid #fff;
+    height: 50px;
+    width: 50px;
+    -webkit-box-shadow: 0px 2px 4px -1px rgba(0, 0, 0, 0.2), 0px 4px 5px 0px rgba(0, 0, 0, 0.14), 0px 1px 10px 0px rgba(0, 0, 0, 0.12);
+    box-shadow: 0px 2px 4px -1px rgba(0, 0, 0, 0.2), 0px 4px 5px 0px rgba(0, 0, 0, 0.14), 0px 1px 10px 0px rgba(0, 0, 0, 0.12);
+    margin-right: 20px;
+}
+
+
+
+.row .col{
+  margin-top: 50px;
+  margin-bottom: 10px;
+  background: #f2f2f2;
+  height: 300px;
+}
+.row .user1{
+    margin-right: 250px;
+  float: right;
+  background: #f2f2f2;
+}
+.row .user2
+{
+  margin-left: 300px;
+  float: left;
+  background: #f2f2f2;
+}
+.icons{
+  margin-left: -10px;
+  margin-right: 200px;
+}
